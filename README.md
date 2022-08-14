@@ -1,7 +1,3 @@
 # Jeong Min Kim
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jm0514)](https://solved.ac/jm0514)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jm0514)](https://solved.ac/jm0514)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=Jeong%20Min&fontSize=80)
